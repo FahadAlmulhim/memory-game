@@ -5,7 +5,7 @@
 ###### description:  common memory game.
 
 
-##installation
+## installation
 - simply open the index.html file on browser.
 ##Dependencies
 ```html
@@ -18,7 +18,7 @@
 - link: https://www.youtube.com/watch?v=x47oLiTpIVk&feature=emb_logo
 
 
-##instructions
+## instructions
 - the cards will be open for 4 seconds then will be closed
 - try to find the right cards with less mistakes, (the rating stars will be effected)
 - after finding the right 16 cards, you win
